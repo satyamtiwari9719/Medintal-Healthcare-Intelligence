@@ -621,7 +621,6 @@ with r3_c1:
         paper_bgcolor="rgba(0,0,0,0)",
         yaxis=dict(
             title="Number of Encounters",
-            titlefont=dict(color="#0f172a", size=11),
             tickfont=dict(color="#334155", size=11),
             showgrid=True,
             gridcolor="#e2e8f0"
